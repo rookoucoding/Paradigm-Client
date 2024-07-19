@@ -11,7 +11,6 @@ public class Paradigm {
         }
         return singleton;
     }
-    public void init() {
-        Display.setTitle(name + " Version: " + version)   }
+    
 
 }
